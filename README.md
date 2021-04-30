@@ -38,4 +38,4 @@ In this project I learnt a lot, a lot about python coding, a lot about neural ne
  - Maciej Odziemczyk
 
 ## Note
-I can't describe whole analysis in just readme, I encourage you to check it by yourself, particular notebooks are pretty simillar to each other. 
+I can't describe whole analysis in just readme, I encourage you to check it by yourself, particular notebooks are pretty simillar to each other. During my work I tried to perform oversampling with Generative Adversarial Networks (GANs) but obtained results were poor and I excluded them from my analysis, but I learnt something about that topic and found it extremely interesting (I really want to try some generative modeling in the future).
