@@ -2,7 +2,7 @@
 Project created for Master Thesis at WNE UW.
 
 Language:
- - English - notebook
+ - English - notebooks
  - Polish - thesis
 
 ## About
