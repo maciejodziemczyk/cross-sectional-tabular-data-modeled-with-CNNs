@@ -1,4 +1,4 @@
-# Cross-sectional tabular data modelled with CNNs
+# Cross-sectional tabular data modelling with CNNs
 Project created for Master Thesis at WNE UW.
 
 Language:
